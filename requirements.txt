@@ -1,0 +1,25 @@
+# Backend (FastAPI)
+fastapi
+uvicorn
+
+# Database (SQLite via SQLAlchemy)
+sqlalchemy
+
+# Security
+python-jose
+passlib[bcrypt]
+
+# AI / LLM
+langchain
+langgraph
+openai
+
+# Utilities
+python-dotenv
+pandas
+requests
+
+# Frontend (Streamlit)
+streamlit
+
+email-validator
