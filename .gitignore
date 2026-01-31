@@ -2,4 +2,4 @@
 __pycache__/
 *.pyc
 exports/
-.streamlit/secrets.toml
+app/streamlit/secrets.tomll
